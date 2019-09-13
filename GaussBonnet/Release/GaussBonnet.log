@@ -1,0 +1,17 @@
+﻿  GaussBonnet.cpp
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(622): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(632): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(635): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(645): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(677): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(684): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(810): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(826): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(830): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\j1ose\desktop\cg&cg2018(1)\gaussbonnet\gaussbonnet\gausscurvature.h(863): warning C4018: “<”: 有符号/无符号不匹配
+  正在生成代码
+  137 of 1232 functions (11.1%) were compiled, the rest were copied from previous compilation.
+    68 functions were new in current compilation
+    62 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  GaussBonnet.vcxproj -> C:\Users\J1ose\Desktop\CG&CG2018(1)\GaussBonnet\Release\GaussBonnet.exe
